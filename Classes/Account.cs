@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace console_bank_application.Classes
+namespace console_bank_application
 {
     public class Account
     {
